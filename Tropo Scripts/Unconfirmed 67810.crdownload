@@ -1,0 +1,12 @@
+ 
+ wait(5000);
+ message(msg, {network: networkToUse, to: number, callerID:"+"+callerNumber,voice:"Sin-ji"}); 
+
+
+/* message('hello world', {network:"INUM", to:"17782418749", callerID:"+17782418749", voice:"Sin-ji" }); */
+
+/* network: txt is "SMS" and Voice is "INUM"
+  msg: The message you want to send "hello how are you today?" */
+  
+
+

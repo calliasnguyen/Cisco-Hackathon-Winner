@@ -1,0 +1,5 @@
+event = call("+17782418749", {network: "SMS"});
+event.value.say("hey man hows it going?");
+
+d = new Date();
+say("The current date and time is: " + d);
